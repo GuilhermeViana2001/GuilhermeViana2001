@@ -2,11 +2,11 @@
 
 **`Analista de Dados | Business Intelligence`**
 
-Graduado em Relações Internacionais com um ano e meio de experiência como estagiário na área de seguros e benefícios corporativos atuando no relacionamento comercial com clientes B2B.
+Graduado em Relações Internacionais com um ano e meio de experiência como estagiário na área de seguros e benefícios corporativos atuando no relacionamento comercial B2B.
 
 Durante meu estágio, atuei tanto em processos operacionais envolvendo tratamento, limpeza e análises de dados, quanto em apoio à tomadas de decisão de acordo com as necessidades dos clientes, desenvolvendo meu perfil analítico e conhecimento em inteligência de negócios.
 
-Atualmente, sou pós-graduando no MBA em Data Science e Analytics da USP/Esalq, visando aprofundar meu conhecimento na área de dados para consolidar minha migração de carreira. Estou encantado com a área de tecnologia e tenho a ambição de me desenvolver cada vez mais.
+Atualmente, sou pós-graduando em Data Science e Analytics, visando aprofundar meu conhecimento na área de dados para consolidar minha migração de carreira, e também estou em preparação para o exame da certificação AWS Cloud Practitioner. Estou encantado com a área de tecnologia e tenho a ambição de me desenvolver cada vez mais.
 
 ---
 
